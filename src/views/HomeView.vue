@@ -32,13 +32,9 @@ export default {
         {
           title: 'Home',
           subtitle: 'Home',
-          image: require('../assets/banner.jpg')
+          image: require('../assets/banner1.jpg')
         },
         {
-          title: 'Home',
-          subtitle: 'Home',
-          image: require('../assets/banner1.jpg')
-        }, {
           title: 'Home',
           subtitle: 'Home',
           image: require('../assets/banner2.jpg')
@@ -49,7 +45,7 @@ export default {
         }, {
           title: 'Home',
           subtitle: 'Home',
-          image: require('../assets/banner5.jpg')
+          image: require('../assets/banner4.jpg')
         },
       ],
 
